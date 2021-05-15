@@ -9,6 +9,6 @@ Deep Learning model to classifier hairs in three types:
 * Liso (straight hair)
 
 
-![example](./frames/17.jpg)
+![example](./frames/27.jpg)
 
 
